@@ -6,6 +6,12 @@ As software projects grow in complexity, they come packaged with under-utilized 
 after debloating. 
 
 ## Team
+This project was developed by Professor [Miryung Kim](http://web.cs.ucla.edu/~miryung/)'s Software Engineering and Analysis Laboratory.
+
+Please visit [UCLA Java Bytecode Debloating](https://github.com/jdebloat).
+
+https://github.com/jdebloat/jshrink
+
 
 ## How to cite
 Please refer to our FSE'20 demo paper, [A Web Service for Debloating Java Bytecode](http://web.cs.ucla.edu/~tianyi.zhang/fse2020-demo-webjshrink.pdf) for more details.
