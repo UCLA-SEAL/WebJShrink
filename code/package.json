@@ -1,0 +1,34 @@
+{
+  "name": "api-analyze-frontend",
+  "homepage": "https://mihirmathur.github.io/api-analyze",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.3",
+    "gh-pages": "^2.0.1",
+    "rc-progress": "^3.0.0",
+    "react": "^16.8.2",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.8.2",
+    "react-scripts": "2.1.5",
+    "react-select": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
